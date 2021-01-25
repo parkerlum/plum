@@ -1,3 +1,4 @@
-1.find
-2.top
-3.diff
+1.ls -a -l
+2.find
+3.top
+4.diff
